@@ -1,0 +1,16 @@
+Alumni ID: A011
+Name: Arjun Singhania
+Department: Computational Mathematics
+Graduation Year: 2020
+Current Role: DevOps & Reliability Engineer
+Company: TCS Research
+
+Skills:
+Python, Machine Learning, TensorFlow, PyTorch, Data Science, Pandas, Scikit-Learn.
+
+Projects:
+Built a predictive recommendation engine in Python utilizing advanced Machine Learning models to enhance user engagement metrics by 34%.
+Created a real-time data streaming pipeline using Apache Kafka, Python, and Machine Learning to analyze IoT sensor telemetry logs.
+
+Experience:
+Currently working at TCS Research focusing on Python and Machine Learning. Spearheaded the migration of legacy monolithic modules to modern cloud-native architectures.

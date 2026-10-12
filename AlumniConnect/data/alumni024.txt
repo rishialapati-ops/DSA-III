@@ -1,0 +1,16 @@
+Alumni ID: A024
+Name: Pooja Hegde
+Department: Software Engineering
+Graduation Year: 2017
+Current Role: Distributed Systems Developer
+Company: Google
+
+Skills:
+Go, Kubernetes, Docker, Cloud Architecture, AWS, Distributed Systems, Linux.
+
+Projects:
+Created a real-time data streaming pipeline using Apache Kafka, Go, and Kubernetes to analyze IoT sensor telemetry logs.
+Trained custom transformer architectures in Go for domain-specific technical corpus summarization and query classification.
+
+Experience:
+Specializes in algorithms, data structures, and Go programming. Conducted technical interviews and contributed to open-source developer tooling.

@@ -1,0 +1,16 @@
+Alumni ID: A079
+Name: Mulk Raj Anand
+Department: Computer Science and Engineering
+Graduation Year: 2024
+Current Role: Data Scientist
+Company: TCS Research
+
+Skills:
+React, Node.js, Full Stack Development, PostgreSQL, Redis, GraphQL, REST APIs.
+
+Projects:
+Implemented an automated resume parser leveraging React and Node.js to categorize candidate technical skills and rank applicant qualifications.
+Developed an end-to-end web portal for university alumni networking using React and Node.js featuring real-time pattern search and messaging.
+
+Experience:
+Specializes in algorithms, data structures, and React programming. Conducted technical interviews and contributed to open-source developer tooling.

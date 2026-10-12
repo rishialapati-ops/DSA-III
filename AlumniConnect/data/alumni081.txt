@@ -1,0 +1,16 @@
+Alumni ID: A081
+Name: Jayant Narlikar
+Department: Computational Mathematics
+Graduation Year: 2018
+Current Role: DevOps & Reliability Engineer
+Company: Adobe
+
+Skills:
+Python, Machine Learning, TensorFlow, PyTorch, Data Science, Pandas, Scikit-Learn.
+
+Projects:
+Built a predictive recommendation engine in Python utilizing advanced Machine Learning models to enhance user engagement metrics by 34%.
+Created a real-time data streaming pipeline using Apache Kafka, Python, and Machine Learning to analyze IoT sensor telemetry logs.
+
+Experience:
+Currently working at Adobe focusing on Python and Machine Learning. Spearheaded the migration of legacy monolithic modules to modern cloud-native architectures.

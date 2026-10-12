@@ -1,0 +1,16 @@
+Alumni ID: A072
+Name: Vikram Seth
+Department: Computer Science and Engineering
+Graduation Year: 2017
+Current Role: Backend Systems Engineer
+Company: Google
+
+Skills:
+React, TypeScript, JavaScript, Next.js, Tailwind CSS, Web Development, Node.js.
+
+Projects:
+Developed an end-to-end web portal for university alumni networking using React and TypeScript featuring real-time pattern search and messaging.
+Constructed a secure role-based access control authentication microservice in React with OAuth2 and JWT token verification.
+
+Experience:
+Extensive hands-on background in React development and software engineering. Authored production test suites and mentored junior developers in test-driven development.

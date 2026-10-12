@@ -1,0 +1,16 @@
+Alumni ID: A035
+Name: Tarun Mathur
+Department: Information Technology
+Graduation Year: 2020
+Current Role: Frontend Web Architect
+Company: TCS Research
+
+Skills:
+C++, Competitive Programming, High Performance Computing, Operating Systems, Computer Networks.
+
+Projects:
+Constructed a secure role-based access control authentication microservice in C++ with OAuth2 and JWT token verification.
+Designed and deployed an enterprise distributed transaction engine using C++ and Competitive Programming. Scaled to handle 50,000 requests per minute with strict fault tolerance.
+
+Experience:
+Serves as Frontend Web Architect at TCS Research. Core responsibilities include writing robust C++ backend services, maintaining database reliability, and collaborating on sprint deliverables.

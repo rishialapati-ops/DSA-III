@@ -1,0 +1,16 @@
+Alumni ID: A093
+Name: Satya Nadella
+Department: Computer Science and Engineering
+Graduation Year: 2022
+Current Role: Full Stack Developer
+Company: Adobe
+
+Skills:
+Java, Python, Data Structures, Algorithms, Object-Oriented Programming, SQL, Git.
+
+Projects:
+Researched pattern matching algorithms including Knuth-Morris-Pratt (KMP) and Boyer-Moore for high-throughput genomic data stream indexing.
+Engineered an automated performance profiling suite in Java that optimized memory allocation in large-scale server applications.
+
+Experience:
+Led an agile squad at Adobe delivering scalable Python pipelines. Championed automated CI/CD practices and architectural design reviews across the engineering unit.

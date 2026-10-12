@@ -1,0 +1,95 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+
+  .font-mono, pre, code {
+    font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+/* Theme styling */
+.dark-theme {
+  --bg-app: #0A0F1D;
+  --bg-surface: #111827;
+  --bg-surface-elevated: #1F2937;
+  --border-subtle: #1E293B;
+  --text-primary: #F8FAFC;
+  --text-secondary: #94A3B8;
+  --text-muted: #64748B;
+  --accent-primary: #6366F1;
+  --accent-secondary: #8B5CF6;
+  background-color: #0A0F1D;
+  color: #F8FAFC;
+}
+
+.light-theme {
+  --bg-app: #F8F7F4;
+  --bg-surface: #FFFFFF;
+  --bg-surface-elevated: #F1F0EB;
+  --border-subtle: #E2E0D8;
+  --text-primary: #1E293B;
+  --text-secondary: #64748B;
+  --text-muted: #94A3B8;
+  --accent-primary: #4F46E5;
+  --accent-secondary: #7C3AED;
+  background-color: #F8F7F4;
+  color: #1E293B;
+}
+
+/* Match Highlights */
+.dark-theme mark.kmp-highlight {
+  background-color: rgba(234, 179, 8, 0.28);
+  color: #FEF08A;
+  padding: 0.1rem 0.25rem;
+  border-radius: 0.25rem;
+  font-weight: 600;
+  border-bottom: 2px solid #EAB308;
+}
+
+.dark-theme mark.kmp-highlight-active {
+  background-color: rgba(244, 63, 94, 0.35);
+  color: #FECDD3;
+  padding: 0.1rem 0.25rem;
+  border-radius: 0.25rem;
+  font-weight: 700;
+  border-bottom: 2px solid #F43F5E;
+}
+
+.light-theme mark.kmp-highlight {
+  background-color: #FEF08A;
+  color: #854D0E;
+  padding: 0.1rem 0.25rem;
+  border-radius: 0.25rem;
+  font-weight: 600;
+  border-bottom: 2px solid #CA8A04;
+}
+
+.light-theme mark.kmp-highlight-active {
+  background-color: #FECDD3;
+  color: #9F1239;
+  padding: 0.1rem 0.25rem;
+  border-radius: 0.25rem;
+  font-weight: 700;
+  border-bottom: 2px solid #E11D48;
+}
+
+/* Scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+.dark-theme ::-webkit-scrollbar-thumb {
+  background: #334155;
+  border-radius: 3px;
+}
+.light-theme ::-webkit-scrollbar-thumb {
+  background: #CBD5E1;
+  border-radius: 3px;
+}

@@ -1,0 +1,16 @@
+Alumni ID: A054
+Name: Kishore Kumar
+Department: Data Science and Artificial Intelligence
+Graduation Year: 2023
+Current Role: Distributed Systems Developer
+Company: Stripe
+
+Skills:
+Go, Kubernetes, Docker, Cloud Architecture, AWS, Distributed Systems, Linux.
+
+Projects:
+Created a real-time data streaming pipeline using Apache Kafka, Go, and Kubernetes to analyze IoT sensor telemetry logs.
+Trained custom transformer architectures in Go for domain-specific technical corpus summarization and query classification.
+
+Experience:
+Specializes in algorithms, data structures, and Go programming. Conducted technical interviews and contributed to open-source developer tooling.

@@ -1,0 +1,6 @@
+{
+  "name": "Alumni Connect - KMP Pattern Search System",
+  "description": "Intelligent Alumni Document Search System powered by Knuth-Morris-Pratt (KMP) string matching algorithm across 100 structured corpus documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

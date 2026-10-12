@@ -1,0 +1,16 @@
+Alumni ID: A026
+Name: Swati Mishra
+Department: Data Science and Artificial Intelligence
+Graduation Year: 2019
+Current Role: Machine Learning Engineer
+Company: Stripe
+
+Skills:
+Python, SQL, Big Data, Apache Spark, Data Analytics, PowerBI, Machine Learning.
+
+Projects:
+Engineered an automated performance profiling suite in Python that optimized memory allocation in large-scale server applications.
+Implemented an automated resume parser leveraging Python and SQL to categorize candidate technical skills and rank applicant qualifications.
+
+Experience:
+Currently working at Stripe focusing on Python and SQL. Spearheaded the migration of legacy monolithic modules to modern cloud-native architectures.

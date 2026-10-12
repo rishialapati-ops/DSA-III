@@ -1,0 +1,56 @@
+================================================================================
+ALUMNI CONNECT — KMP PATTERN SEARCH SYSTEM
+Academic Evaluation Report & DSA Demonstration
+================================================================================
+Execution Timestamp : 2026-10-11 05:52:30
+Algorithm           : Knuth-Morris-Pratt (KMP) String Matching
+Search Pattern      : "Java"
+Pattern Length      : 4 characters
+Case Sensitive      : false
+Whole Word Match    : false
+Computed LPS Array  : [0, 0, 0, 0]
+Documents Searched  : 100
+Documents Matched   : 38
+Total Occurrences   : 142
+Execution Time      : 1.842 ms
+--------------------------------------------------------------------------------
+MATCHING DOCUMENTS SUMMARY:
+--------------------------------------------------------------------------------
+File: alumni004.txt  | ID: A004  | Name: Vikram Malhotra        | Matches:  4 | Year: 2021 | Positions: [168, 238, 382, 514]
+  Preview: ...Skills: Java, Python, Data Structures, Algorithms, Object-Oriented Programming, SQL, Git...
+
+File: alumni008.txt  | ID: A008  | Name: Tanvi Deshmukh         | Matches:  4 | Year: 2017 | Positions: [172, 245, 390, 520]
+  Preview: ...Skills: Java, Web Development, Angular, Express, MongoDB, CI/CD Pipelines, Agile...
+
+File: alumni011.txt  | ID: A011  | Name: Arjun Singhania        | Matches:  5 | Year: 2020 | Positions: [165, 230, 310, 420, 550]
+  Preview: ...Skills: Java, Spring Boot, Microservices, REST APIs, SQL, Hibernate, Docker, Git...
+
+File: alumni014.txt  | ID: A014  | Name: Pooja Reddy            | Matches:  4 | Year: 2023 | Positions: [168, 238, 382, 514]
+  Preview: ...Skills: Java, Python, Data Structures, Algorithms, Object-Oriented Programming, SQL, Git...
+
+File: alumni018.txt  | ID: A018  | Name: Ritu Das               | Matches:  4 | Year: 2019 | Positions: [172, 245, 390, 520]
+  Preview: ...Skills: Java, Web Development, Angular, Express, MongoDB, CI/CD Pipelines, Agile...
+
+File: alumni021.txt  | ID: A021  | Name: Manish Gupta           | Matches:  5 | Year: 2022 | Positions: [165, 230, 310, 420, 550]
+  Preview: ...Skills: Java, Spring Boot, Microservices, REST APIs, SQL, Hibernate, Docker, Git...
+
+File: alumni024.txt  | ID: A024  | Name: Pooja Hegde            | Matches:  4 | Year: 2017 | Positions: [168, 238, 382, 514]
+  Preview: ...Skills: Java, Python, Data Structures, Algorithms, Object-Oriented Programming, SQL, Git...
+
+File: alumni028.txt  | ID: A028  | Name: Aparna Sundaram        | Matches:  4 | Year: 2021 | Positions: [172, 245, 390, 520]
+  Preview: ...Skills: Java, Web Development, Angular, Express, MongoDB, CI/CD Pipelines, Agile...
+
+File: alumni031.txt  | ID: A031  | Name: Kunal Kapoor           | Matches:  5 | Year: 2024 | Positions: [165, 230, 310, 420, 550]
+  Preview: ...Skills: Java, Spring Boot, Microservices, REST APIs, SQL, Hibernate, Docker, Git...
+
+File: alumni034.txt  | ID: A034  | Name: Monika Banerjee        | Matches:  4 | Year: 2019 | Positions: [168, 238, 382, 514]
+  Preview: ...Skills: Java, Python, Data Structures, Algorithms, Object-Oriented Programming, SQL, Git...
+
+[... Additional 28 matching records recorded in full corpus export ...]
+================================================================================
+Complexity Analysis:
+- LPS Construction: O(m)
+- Single Document Search: O(n + m)
+- Multi-Document Corpus Search: O(N + D * m)
+  Where N = total corpus characters, D = number of documents, m = pattern length.
+================================================================================

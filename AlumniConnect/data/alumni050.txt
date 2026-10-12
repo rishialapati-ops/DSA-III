@@ -1,0 +1,16 @@
+Alumni ID: A050
+Name: Rishi Alapati
+Department: Electrical and Electronics Engineering
+Graduation Year: 2019
+Current Role: Software Development Engineer
+Company: Stripe
+
+Skills:
+Java, Spring Boot, Microservices, REST APIs, SQL, Hibernate, Docker, Git.
+
+Projects:
+Architected a high-concurrency microservices system using Java and containerized the microservices with Docker and Kubernetes for high availability.
+Researched pattern matching algorithms including Knuth-Morris-Pratt (KMP) and Boyer-Moore for high-throughput genomic data stream indexing.
+
+Experience:
+Serves as Software Development Engineer at Stripe. Core responsibilities include writing robust Java backend services, maintaining database reliability, and collaborating on sprint deliverables.

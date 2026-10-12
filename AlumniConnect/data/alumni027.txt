@@ -1,0 +1,16 @@
+Alumni ID: A027
+Name: Harish Pillai
+Department: Electronics and Communication Engineering
+Graduation Year: 2020
+Current Role: Database Administrator and Architect
+Company: TCS Research
+
+Skills:
+Java, Web Development, Angular, Express, MongoDB, CI/CD Pipelines, Agile.
+
+Projects:
+Trained custom transformer architectures in Java for domain-specific technical corpus summarization and query classification.
+Architected a high-concurrency microservices system using Java and containerized the microservices with Docker and Kubernetes for high availability.
+
+Experience:
+Extensive hands-on background in Java development and software engineering. Authored production test suites and mentored junior developers in test-driven development.

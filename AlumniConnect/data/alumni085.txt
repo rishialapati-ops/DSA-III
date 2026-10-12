@@ -1,0 +1,16 @@
+Alumni ID: A085
+Name: A.P.J. Abdul Kalam
+Department: Electrical and Electronics Engineering
+Graduation Year: 2022
+Current Role: Frontend Web Architect
+Company: Adobe
+
+Skills:
+C++, Competitive Programming, High Performance Computing, Operating Systems, Computer Networks.
+
+Projects:
+Constructed a secure role-based access control authentication microservice in C++ with OAuth2 and JWT token verification.
+Designed and deployed an enterprise distributed transaction engine using C++ and Competitive Programming. Scaled to handle 50,000 requests per minute with strict fault tolerance.
+
+Experience:
+Serves as Frontend Web Architect at Adobe. Core responsibilities include writing robust C++ backend services, maintaining database reliability, and collaborating on sprint deliverables.

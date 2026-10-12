@@ -1,0 +1,16 @@
+Alumni ID: A038
+Name: Anjali Kaul
+Department: Software Engineering
+Graduation Year: 2023
+Current Role: Cloud Infrastructure Engineer
+Company: Stripe
+
+Skills:
+Python, Deep Learning, Natural Language Processing, Computer Vision, Transformers, Keras.
+
+Projects:
+Designed and deployed an enterprise distributed transaction engine using Python and Deep Learning. Scaled to handle 50,000 requests per minute with strict fault tolerance.
+Built a predictive recommendation engine in Python utilizing advanced Deep Learning models to enhance user engagement metrics by 34%.
+
+Experience:
+Led an agile squad at Stripe delivering scalable Deep Learning pipelines. Championed automated CI/CD practices and architectural design reviews across the engineering unit.
